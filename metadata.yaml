@@ -1,0 +1,49 @@
+_repo: Platoons-Phaidoon-b-Uit-het-Grieksch-overgebracht_71489
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Boutens, P. C.
+    aliases:
+    - Hoghe, Andries de
+    - De Hoghe, Andries
+    - Boutens, Petrus Cornelis
+    - Boutens, Pieter Cornelis
+    birthdate: 1870
+    deathdate: 1943
+    gutenberg_agent_id: '4086'
+    url: http://www.gutenberg.org/2009/agents/4086
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pieter_Cornelis_Boutens
+    - https://nl.wikipedia.org/wiki/P.C._Boutens
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: https://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2023-08-26'
+identifiers:
+  gutenberg: '71489'
+language: nl
+pgterms:marc904: https://www.dbnl.org/tekst/plat008phai01_01/#
+pgterms:marc905: 20200805013935platoon
+pgterms:marc906: '1919'
+pgterms:marc907: NL
+production_note: Wouter Franssen and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Koninklijke Bibliotheek, The Hague)
+publication_note: '  $aAmsterdam :$bMaatschappij voor Goede en Goedkoope Lectuur,
+  $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Immortality (Philosophy) -- Early works to 1800'
+- !lcc 'B'
+- !lcc 'PA'
+- GITenberg
+title: 'Platoons Phaidoon : $b Uit het Grieksch overgebracht'
+url: http://www.gutenberg.org/ebooks/71489
