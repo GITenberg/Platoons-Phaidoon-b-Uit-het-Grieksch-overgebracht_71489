@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Pieter_Cornelis_Boutens
     - https://nl.wikipedia.org/wiki/P.C._Boutens
+covers:
+- cover_type: archival
+  image_path: 71489-h/images/cover.jpg
 creator:
   author:
     agent_name: Plato
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/93
     wikipedia: https://en.wikipedia.org/wiki/Plato
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71489#Platoons-Phaidoon-b-Uit-het-Grieksch-overgebracht
 gutenberg_issued: '2023-08-26'
 identifiers:
   gutenberg: '71489'
